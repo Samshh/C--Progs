@@ -128,10 +128,10 @@ int main() {
 
                         switch (choice) {
                             case 1:
-                                cout << "Viewing Todo List..." << endl;
+                                cout << "Viewing Todo List... (Working Progress)" << endl;
                                 break;
                             case 2:
-                                cout << "Editing Todo List..." << endl;
+                                cout << "Editing Todo List... (Working Progress)" << endl;
                                 break;
                             case 3:
                                 logout();
