@@ -55,7 +55,7 @@ void createAccount() {
     }
 
     do {
-        cout << " (at least 8 characters with uppercase, lowercase, digit, and special character)";
+        cout << "(at least 8 characters with uppercase, lowercase, digit, and special character)" << endl;
         cout << "Enter a strong password: ";
         cin >> password;
     } while (!isStrongPassword(password));
